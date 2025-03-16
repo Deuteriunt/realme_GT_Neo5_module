@@ -1,13 +1,12 @@
 ## 真我GTNeo5特性模块
 #### [123云盘下载](https://www.123912.com/s/qEaeVv-9ThTH?)，密码:`NVy8`
+#### [GitHub下载](https://github.com/Deuteriunt/realme_GT_Neo5_module/releases)
 
 > v2.3.5
  - 添加：
  - 1.指纹修复类
- - 2.coloros禁用温控与解除限制
+ - 2.电池优化
  - 3.满血充电
- - 4.修改满电容量
- - 5.挂载any
 
 > v2.3.4
  - 添加检测更新内容
