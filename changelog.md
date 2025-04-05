@@ -2,6 +2,14 @@
 #### [123云盘下载](https://www.123912.com/s/qEaeVv-9ThTH?)，密码:`NVy8`
 #### [GitHub下载](https://github.com/Deuteriunt/realme_GT_Neo5_module/releases)
 
+> v2.3.7
+ - 添加：
+ - 1.关闭阶梯式充电
+ - 2.修改满电容量
+
+ - 移除：
+ - 1.AI游戏大神辅助（在460版本中已内置）
+
 > v2.3.6
  - 添加：
  - 1.指纹修复类
